@@ -1,0 +1,45 @@
+1. Add Product
+2. View Inventory
+3. Exit
+Enter choice: 1
+
+Product ID: P101
+Product Name: Laptop
+Quantity: 10
+Price: 50000
+Product added successfully!
+
+1. Add Product
+2. View Inventory
+3. Exit
+Enter choice: 1
+
+Product ID: P102
+Product Name: Mouse
+Quantity: 25
+Price: 500
+Product added successfully!
+
+1. Add Product
+2. View Inventory
+3. Exit
+Enter choice: 2
+
+ID: P101
+Name: Laptop
+Quantity: 10
+Price: ₹50000.0
+-------------------
+
+ID: P102
+Name: Mouse
+Quantity: 25
+Price: ₹500.0
+-------------------
+
+1. Add Product
+2. View Inventory
+3. Exit
+Enter choice: 3
+
+Exiting...
